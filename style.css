@@ -1,0 +1,42 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+.logo{
+    width: 90px;
+    margin-left: 90%;
+}
+.we{
+    font-size: 90px;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    margin-top: 8%;
+}
+.qw{
+    font-size: 20px
+}
+
+.intro{
+    font-size: 90px;
+    color: black;
+    font-family: sans-serif;
+    font-weight: 800;
+}
+.base{
+    color: black;
+    font-size: 16px;
+}
+
+.text{
+    font-size: 90px;
+    font-weight: 700;
+    color: black;
+}
+
+.par{
+    font-size: 16px;
+    color: black;
+}
